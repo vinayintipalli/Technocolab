@@ -1,2 +1,2 @@
 
-## It is assessments on Python for Data Science Kaggle HandsOn.
+## It is the assessments on Python for Data Science Kaggle HandsOn.
